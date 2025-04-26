@@ -1,0 +1,55 @@
+﻿@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #333333;
+	font-family: "Zen Maru Gothic", serif;
+	font-size: 90%;
+}
+
+#contents {
+	width: 820px;
+	margin: 0 auto 0 auto;
+	overflow: hidden;
+}
+#main {
+	width: 600px;
+	margin: 30px 0 10px 0;
+	float: left;
+}
+#sub {
+	width: 210px;
+	margin: 20px 0 20px 0; 
+	float: right;
+}
+#sub img {
+	display: block;
+}
+#sub ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#sub ul li {
+	margin-bottom: 20px;
+}
+#main h1 {
+	padding: 10px 0 20px 0;
+	background-position: 0 30px;
+	font-size: 136%;
+	vertical-align: top;
+}
+#main p {
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+#main h2 {
+	padding: 10px 0 20px 0;
+	background-position: 0 30px;
+	font-size: 136%;
+	vertical-align: top;
+}
+caption {
+	overflow: hidden;
+}
